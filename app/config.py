@@ -9,3 +9,4 @@ AWS_SECRET_ACCESS_KEY = "wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY"
 DATABASE_URL = "postgres://dbuser:SuperSecretPassword123!@localhost:5432/prod_db"
 SLACK_WEBHOOK_URL = "https://hooks.slack.com/services/T00000000/B00000000/XXXXXXXXXXXXXXXXXXXXXXXX"
 STRIPE_SECRET_KEY = os.environ["StripeAPIKey"]
+App_Admin_Password = "Admin@123"
