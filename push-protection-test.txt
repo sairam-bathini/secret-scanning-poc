@@ -1,0 +1,3 @@
+# Synthetic, nonfunctional GitHub token-shaped value for push-protection testing.
+# This all-zero value is not a credential.
+ghp_000000000000000000000000000000000000
